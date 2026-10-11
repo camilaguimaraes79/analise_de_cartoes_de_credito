@@ -40,19 +40,23 @@ Os gráficos abaixo ajudam a visualizar as diferenças entre clientes ativos e c
 
 ### Produtos contratados
 
-[Ver gráfico de produtos contratados](produtos_contratados.png)
+[Ver gráfico de produtos contratados](imagens/produtos_contratados.png)
 
 ### Quantidade de transações
 
-[Ver gráfico de quantidade de transações](qtde_transacoes.png)
+[Ver gráfico de quantidade de transações](imagens/qtde_transacoes.png)
 
 ### Valor das transações
 
-[Ver gráfico de valor das transações](valor_transacoes.png)
+[Ver gráfico de valor das transações](imagens/valor_transacoes.png)
 
 ### Contatos com a empresa
 
-[Ver gráfico de contatos com a empresa](contatos.png)
+[Ver gráfico de contatos com a empresa](imagens/contatos.png)
+
+### Categoria Cartão 
+
+[Ver gráfico de categoria do cartão](imagens/categoria_cartao.png)
 
 ## Principais conclusões
 
