@@ -80,6 +80,10 @@ O cartão Blue concentra a maior quantidade de cancelamentos, mas também repres
 
 Apesar de o cartão Platinum apresentar a maior taxa de cancelamento, ele possui apenas 20 clientes na base. Por isso, essa diferença deve ser interpretada com cautela.
 
+De modo geral, os resultados não fornecem evidências suficientes para afirmar que o tipo de cartão seja um fator determinante para o cancelamento.
+
+[Ver gráfico de cancelamento por categoria do cartão](imagens/categoria_cartao.png)
+
 ## O que aprendi com o projeto
 
 Com este projeto, pratiquei o uso de Python e Pandas para importar, organizar e analisar dados. Também utilizei gráficos para comparar grupos de clientes e tabelas para facilitar a interpretação dos resultados.
